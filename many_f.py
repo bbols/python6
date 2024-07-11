@@ -24,3 +24,4 @@ print(a_char2)
 print(math.pi)
 import os
 print(os.listdir())
+print(os.listdir())
